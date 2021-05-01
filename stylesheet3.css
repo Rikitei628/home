@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6, p, div {
     width: 430px;
   }
   .header-list li {
-    padding: 40px 5px 0 0;
+    padding: 40px 10px 0 0;
     font-size: 13px;
   }
   .main {
@@ -165,6 +165,6 @@ footer {
 }
 
 .logo {
-  width: 170px;
+  width: 140px;
   margin-top: 10px;
 }
